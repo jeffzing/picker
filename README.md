@@ -48,8 +48,7 @@
 
 #### Step 1 - install
 
-```javascript
-	npm install react-native-picker --save
+```package.json 改版仓库地址为 https://github.com/jeffzing/picker.git
 ```
 
 #### Step 2 - link
